@@ -1,3 +1,21 @@
+/*
+  dynamic x = 'Teste";
+  x = 123;
+  x = false;
+
+  print(x);
+
+  int soma(int a,int b) {
+    return a + b;
+  }
+
+  soma(a,b){
+    print (a + b);
+  }
+
+  */
+
+
 main () {
  /*
   dynamic x = 'Teste";
@@ -5,6 +23,8 @@ main () {
   x = false;
 
   print(x);
+
+  
 
   var a = 3;
   a = 4;
