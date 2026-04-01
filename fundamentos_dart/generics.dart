@@ -9,8 +9,8 @@ main(){
 
     Map<String, double> salarios = {
         'gerente' :  19345.78,
-        'vendedor' : 16345.80;
-        'estagiario' : 600.00;//entre aspas simples não permitiria
+        'vendedor' : 16345.80,
+        'estagiario' : 600.00,//entre aspas simples não permitiria
     };
     print(salarios);
     // para uma boa pratica é sempre bom colocar os tipos em listas e maps para deixar todos iguais 
